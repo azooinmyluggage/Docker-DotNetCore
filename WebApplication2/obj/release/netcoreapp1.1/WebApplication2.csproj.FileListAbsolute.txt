@@ -1,0 +1,8 @@
+C:\Users\atulmal\Source\Repos\GitHub-Docker-DotNetCore\Docker-DotNetCore\WebApplication2\bin\release\netcoreapp1.1\WebApplication2.deps.json
+C:\Users\atulmal\Source\Repos\GitHub-Docker-DotNetCore\Docker-DotNetCore\WebApplication2\bin\release\netcoreapp1.1\WebApplication2.runtimeconfig.json
+C:\Users\atulmal\Source\Repos\GitHub-Docker-DotNetCore\Docker-DotNetCore\WebApplication2\bin\release\netcoreapp1.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\atulmal\Source\Repos\GitHub-Docker-DotNetCore\Docker-DotNetCore\WebApplication2\bin\release\netcoreapp1.1\WebApplication2.dll
+C:\Users\atulmal\Source\Repos\GitHub-Docker-DotNetCore\Docker-DotNetCore\WebApplication2\bin\release\netcoreapp1.1\WebApplication2.pdb
+C:\Users\atulmal\Source\Repos\GitHub-Docker-DotNetCore\Docker-DotNetCore\WebApplication2\obj\release\netcoreapp1.1\WebApplication2.AssemblyInfo.cs
+C:\Users\atulmal\Source\Repos\GitHub-Docker-DotNetCore\Docker-DotNetCore\WebApplication2\obj\release\netcoreapp1.1\WebApplication2.dll
+C:\Users\atulmal\Source\Repos\GitHub-Docker-DotNetCore\Docker-DotNetCore\WebApplication2\obj\release\netcoreapp1.1\WebApplication2.pdb

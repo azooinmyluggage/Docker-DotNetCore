@@ -7,6 +7,6 @@ FROM microsoft/aspnetcore
 
 ARG source
 WORKDIR /app
-EXPOSE 80
+EXPOSE 5000
 COPY . .
 ENTRYPOINT ["dotnet", "WebApplication2.dll"]

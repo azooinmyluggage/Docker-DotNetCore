@@ -8,4 +8,4 @@ ARG source
 WORKDIR /app
 EXPOSE 80
 COPY . .
-ENTRYPOINT ["dotnet", "bin/debug/netcoreapp1.1/WebApplication2.dll"]
+ENTRYPOINT ["dotnet", "./bin/debug/netcoreapp1.1/WebApplication2.dll"]

@@ -9813,16 +9813,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\atulmal\\Source\\Repos\\GitHub-Docker-DotNetCore\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\atulmal\\Source\\Repos\\GitHub-Docker-DotNetCore\\Docker-DotNetCore\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\atulmal\\Source\\Repos\\GitHub-Docker-DotNetCore\\WebApplication2\\WebApplication2.csproj",
-      "outputPath": "C:\\Users\\atulmal\\Source\\Repos\\GitHub-Docker-DotNetCore\\WebApplication2\\obj\\",
+      "projectPath": "C:\\Users\\atulmal\\Source\\Repos\\GitHub-Docker-DotNetCore\\Docker-DotNetCore\\WebApplication2\\WebApplication2.csproj",
+      "outputPath": "C:\\Users\\atulmal\\Source\\Repos\\GitHub-Docker-DotNetCore\\Docker-DotNetCore\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/WebApplication2.dll": "C:\\Users\\atulmal\\Source\\Repos\\GitHub-Docker-DotNetCore\\WebApplication2\\bin\\placeholder\\netcoreapp1.1\\WebApplication2.dll"
+        "lib/netcoreapp1.1/WebApplication2.dll": "C:\\Users\\atulmal\\Source\\Repos\\GitHub-Docker-DotNetCore\\Docker-DotNetCore\\WebApplication2\\bin\\placeholder\\netcoreapp1.1\\WebApplication2.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
